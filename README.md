@@ -2,4 +2,4 @@
 
 性能跟 github.com/pkg/errors 基本持平。
 
-该 errors 包匹配的错误码设计请参考另一个doc
+该 errors 包匹配的错误码设计请参考另一个docQ
